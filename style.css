@@ -45,7 +45,15 @@ body{
     font-family: "DM Sans", sans-serif;
 }
 
-.biblioteca {
+.biblioteca a{
     text-decoration: none;
     color: #b3b3b3;
+    font-family: "DM Sans", sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    padding: 4px 8px;
+}
+
+.biblioteca .criarPlaylist {
+    padding: 8px;
 }
